@@ -1,4 +1,4 @@
-# Comparação de Faces com Python
+# Comparação de Faces com Python utilizando AWS Face Rekognition
 
 Simples projeto para demonstração das capacidades do Python. Utilizamos Python para acionar o serviço da AWS Rekognition para comparar duas imagens com fotos.
 
